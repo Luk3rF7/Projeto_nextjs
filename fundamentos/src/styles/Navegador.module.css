@@ -1,0 +1,16 @@
+.navegador{
+    padding: 30px;
+    margin:10px;
+    border-radius: 8px;
+    cursor:pointer;
+    box-shadow: 4px 2px 2px 1px whitesmoke;
+    border: 2px solid black;
+}
+
+.navegador:hover {
+    box-shadow: 4px 2px 2px 1px rgba(74, 74, 74, 0.663);
+    border: 2px solid white;
+    color:black;
+    
+
+}
